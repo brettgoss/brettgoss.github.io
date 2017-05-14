@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>brettgoss.github.io/</loc>
+    <loc>https://brettgoss.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>brettgoss.github.io/categories/</loc>
+    <loc>https://brettgoss.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>brettgoss.github.io/tags/</loc>
+    <loc>https://brettgoss.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
