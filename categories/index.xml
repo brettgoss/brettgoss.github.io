@@ -10,5 +10,23 @@
 	<atom:link href="https://brettgoss.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Development</title>
+      <link>https://brettgoss.github.io/categories/development/</link>
+      <pubDate>Sun, 14 May 2017 18:55:56 -0700</pubDate>
+      
+      <guid>https://brettgoss.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://brettgoss.github.io/categories/golang/</link>
+      <pubDate>Sun, 14 May 2017 18:55:56 -0700</pubDate>
+      
+      <guid>https://brettgoss.github.io/categories/golang/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

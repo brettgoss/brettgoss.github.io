@@ -2,7 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://brettgoss.github.io/contact/</loc>
+    <lastmod>2017-05-14T18:55:56-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brettgoss.github.io/projects/</loc>
+    <lastmod>2017-05-14T18:55:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brettgoss.github.io/about/</loc>
+    <lastmod>2017-05-14T18:51:50-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://brettgoss.github.io/</loc>
+    <lastmod>2017-05-14T18:55:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -12,7 +28,32 @@
   </url>
   
   <url>
+    <loc>https://brettgoss.github.io/tags/development/</loc>
+    <lastmod>2017-05-14T18:55:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brettgoss.github.io/categories/development/</loc>
+    <lastmod>2017-05-14T18:55:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brettgoss.github.io/tags/golang/</loc>
+    <lastmod>2017-05-14T18:55:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://brettgoss.github.io/categories/golang/</loc>
+    <lastmod>2017-05-14T18:55:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://brettgoss.github.io/tags/</loc>
+    <lastmod>2017-05-14T18:55:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
