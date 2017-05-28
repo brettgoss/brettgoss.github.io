@@ -6,26 +6,26 @@
     <description>Recent content in Tags on Brett Goss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 May 2017 18:55:56 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2017 18:51:50 -0700</lastBuildDate>
     
 	<atom:link href="https://brettgoss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://brettgoss.github.io/tags/development/</link>
-      <pubDate>Sun, 14 May 2017 18:55:56 -0700</pubDate>
+      <title>About</title>
+      <link>https://brettgoss.github.io/tags/about/</link>
+      <pubDate>Sun, 14 May 2017 18:51:50 -0700</pubDate>
       
-      <guid>https://brettgoss.github.io/tags/development/</guid>
+      <guid>https://brettgoss.github.io/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://brettgoss.github.io/tags/golang/</link>
-      <pubDate>Sun, 14 May 2017 18:55:56 -0700</pubDate>
+      <title>Development</title>
+      <link>https://brettgoss.github.io/tags/development/</link>
+      <pubDate>Sun, 14 May 2017 18:51:50 -0700</pubDate>
       
-      <guid>https://brettgoss.github.io/tags/golang/</guid>
+      <guid>https://brettgoss.github.io/tags/development/</guid>
       <description></description>
     </item>
     
